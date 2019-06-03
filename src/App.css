@@ -3,7 +3,7 @@
   background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
 }
 
-.search-form {
+.search-form{
   min-height: 10vh;
   display: flex;
   justify-content: center;
